@@ -2,8 +2,6 @@
 
 I’m Aleasha Green, a UX/UI-focused Internet & Web Development student at Arizona State University. I enjoy designing thoughtful, accessible interfaces and understanding how design decisions carry through to real web experiences. Currently building portfolio work for Junior UX/UI and Product Design roles.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleasha-green&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 ## Let's connect! 🤝
 
 [Codepen](https://codepen.io/aleasha-green)  
